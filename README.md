@@ -8,9 +8,17 @@ I build clean, accessible and performant web apps — from semantic HTML/CSS and
 ---
 
 ## About me
-- 🎓 Studying **Information Technology** at **OsloMet**; continuing web dev at **Noroff**; earlier studies at **National Transport University (UA)**.  
-- 🧪 Training: **6-month Full-stack Bootcamp**, **SoftServe Front-end Project-Based Learning**, **Hillel IT: Deep Node.js**.  
-- 💼 Experience: **3 months** of freelance landing pages; **1-month internship at Adtelligent (Bidmatic)**.  
+- 🎓 Studying:
+  1. **Bachelor in Information Technology** at **OsloMet(Norway)**
+  2. **2 years program higher educatiob in Web development** at **Noroff(Norway)**
+  3. **Bachelor in Computer Science** at **National Transport University (UA)**.  
+- 🧪 Training:
+  1. **6-month Full-stack Bootcamp**
+  2. **SoftServe Front-end Project-Based Learning**
+  3. **Hillel IT: Deep Node.js**.  
+- 💼 Experience:
+  1. **3 months** of freelance landing pages;
+  2.  **1-month internship at Adtelligent (Bidmatic)**.  
 - 🤝 I care about accessibility (WCAG), clear documentation, and measurable performance.
 
 ## Tech
