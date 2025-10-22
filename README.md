@@ -22,9 +22,12 @@ I build clean, accessible and performant web apps — from semantic HTML/CSS and
 #### 🤝 I care about accessibility (WCAG), clear documentation, and measurable performance.
 
 ## Tech
-**Frontend:** HTML5, CSS3, Tailwind, JavaScript (ES6+), TypeScript, React, Redux/Zustand , Prebid.js 
+**Frontend:** HTML5, CSS3, Tailwind, JavaScript (ES6+), TypeScript, React, Redux/Zustand, Prebid.js
+
 **Backend:** Node.js, Fastify, Express, Prisma, REST APIs  
+
 **Databases:** MongoDB, ClickHouse  
+
 **Tools:** Git/GitHub, Figma
 
 
