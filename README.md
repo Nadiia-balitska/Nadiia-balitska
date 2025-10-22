@@ -27,11 +27,6 @@ I build clean, accessible and performant web apps — from semantic HTML/CSS and
 **Databases:** MongoDB, ClickHouse  
 **Tools:** Git/GitHub, Figma
 
-## Featured projects
-- **Rainydays (Cross Course)** — E-commerce storefront.  
-- **JavaScript 1** — API-driven UI with loading & error states.  
-- **Semester Project 1** — Content site with blog & contact.  
-→ Live demos and repos are listed on my portfolio.
 
 ## Contact
 - 📧 **Email:** balitskanadia2@gmail.com  
