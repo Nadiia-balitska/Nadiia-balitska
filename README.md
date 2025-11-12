@@ -1,7 +1,7 @@
 # Hi, I’m Nadiia Balitska 👋
 
 ## **Full-stack Developer** based in Oslo, Norway.  
-I build clean, accessible and performant web apps — from semantic HTML/CSS and TypeScript/React on the front end to Node.js APIs and databases on the back end.
+I build clean, accessible and performant web apps — from Java Script and TypeScript/React on the front end to Node.js APIs and databases on the back end.
 
 **🔗 Portfolio:** https://portfolio-five-livid-c5r862mv2l.vercel.app/#/home
 
